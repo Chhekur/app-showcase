@@ -1,0 +1,14 @@
+{
+  "name": "my_story",
+  "app-name": "My Story",
+  "version": "1.0.0",
+  "description": "A simple story app build on Android JS",
+  "main": "index.js",
+  "apk":"my_story.apk",
+  "icon": "my_story.png",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chhekur",
+  "license": "ISC"
+}
